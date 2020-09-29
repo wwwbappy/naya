@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+herfybd.com	TRUE	/	FALSE	1999999999	ci_session	q4vs45d25sp4p4o1urtidrlm1l3u4scf
+
